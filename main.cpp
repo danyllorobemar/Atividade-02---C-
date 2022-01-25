@@ -165,7 +165,7 @@ class Cadastro{
 };
 
 
-int main() {
+int main(int argc,char *argv[]) {
   
   int opcao=0;
   Cadastro cadastro;
